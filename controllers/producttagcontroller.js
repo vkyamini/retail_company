@@ -1,0 +1,1 @@
+const producttags = require('../models/Producttag');
